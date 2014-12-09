@@ -1,4 +1,4 @@
 ===========
-~GroceryList~
+GroceryList
 haha
 yes
